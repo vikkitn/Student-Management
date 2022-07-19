@@ -17,6 +17,7 @@ public class MavenPractice {
 	public void Sample3()
 	{
 		System.out.println("MavenPratice3");
+		System.out.println("MavenPratice4");
 	}
 
 }
