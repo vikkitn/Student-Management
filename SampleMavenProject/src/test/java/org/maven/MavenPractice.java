@@ -18,7 +18,6 @@ public class MavenPractice {
 	{
 		System.out.println("MavenPratice3");
 		System.out.println("MavenPratice4");
-		System.out.println("MavenPratice5");
 	}
 	public void Sample4()
 	{
