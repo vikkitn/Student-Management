@@ -23,6 +23,10 @@ public class MavenPractice {
 	{
 		System.out.println("MavenPratice5");
 	}
+	public void Sample5()
+	{
+		System.out.println("Project Success");
+	}
 
 
 }
