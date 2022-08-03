@@ -8,6 +8,7 @@ public class MavenProject2 {
 	{
 		System.out.println("DemoMavenPratice1");
 	}
+// 	Comment for next method
 	@Test
 	public void Demo2()
 	{
